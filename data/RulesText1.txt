@@ -1,0 +1,10 @@
+Rules;450;75;50
+The GOAL of the game is to win the most money possible;450;140;30
+In order to win a game, you need to have the highest amount;450;180;30
+of points, based on the combination of cards between your hand;450;220;30
+and the cards in the middle, known as the 'community cards'.;450;260;30
+In this game, every round is unique and has different things;450;300;30
+you can do, and there's always an opportunity for you to win.;450;340;30
+There are 5 individual rounds in each game, the Preflop, the;450;380;30
+Flop, the Turn, and the River.;450;420;30
+The ranking of card combinations are listed on the last page;450;480;30

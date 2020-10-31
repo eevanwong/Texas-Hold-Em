@@ -1,0 +1,11 @@
+Every turn, there are 3 options: Fold, Call, Raise, and check.;450;100;30
+To FOLD is to essentially forfeit the game. If you don't have;450;140;30
+a good hand, folding means you no longer wish to continue,;450;180;30
+and you are no longer obligated in betting more money.;450;220;30
+To CALL is to call a bet, meaning to match the amount that has;450;260;30
+been put in by another player as a bet or raise. If its the;450;300;30
+final round, player A bets and player B calls, then;450;340;30
+it goes to showdown and the best hand wins.;450;380;30
+To RAISE is to increase the opening bet. After raising it,;450;420;30
+one will have to call, fold, or reraise.;450;460;30
+To CHECK is to not bet anything, only if nobody else has bet;450;500;30

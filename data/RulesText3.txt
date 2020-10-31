@@ -1,0 +1,7 @@
+1st Round PREFLOP: All players recieve their cards. Each player;450;100;30
+can Fold Call or Raise.;450;140;30
+2nd Round FLOP: The first 3 community cards are dealt.;450;180;30
+3rd Round TURN: The next community card is dealt;450;220;30
+4th Round RIVER: Last community card is dealt;450;300;30
+Final Round SHOWDOWN: All players that have not folded;450;340;30
+reveal their hand. The best hand wins the pot.;450;380;30

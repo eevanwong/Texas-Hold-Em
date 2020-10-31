@@ -1,0 +1,2 @@
+genbackground.png;450;325
+Table2.png;450;325

@@ -1,0 +1,2 @@
+genbackground.png;450;325
+#Sign.png;72;98

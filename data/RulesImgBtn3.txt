@@ -1,0 +1,2 @@
+810;600;50;50;rightarrow.png
+729;600;50;50;leftarrow.png

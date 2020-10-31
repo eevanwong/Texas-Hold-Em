@@ -1,0 +1,2 @@
+mainmenuimg.jpg;450;325
+Title.png;300;118

@@ -1,0 +1,4 @@
+First Player's Student ID;450;181;40
+First Player's First Name;450;281;40
+First Player's Last Name;450;381;40
+Please enter the following information;450;90;45
