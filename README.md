@@ -40,3 +40,7 @@ At the end of the game, the player who has the greater hand or the one who doesn
 
 ![](readmeimg/leaderboardchange.png)
 
+
+## Potential Updates
+
+Upgrade this to a website, utilizing javascript
