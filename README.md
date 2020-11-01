@@ -13,26 +13,26 @@ Game starts here, you can go to the rules if you're unsure how to play Texas Hol
 
 ## Rule Page
 
-![](readmeimg/rules)
+![](readmeimg/rules.png)
 
 
 ## Before you Play
 Before you can start the game you first need to input ID, first name and last name.
 
-![](readmeimg/inputname)
+![](readmeimg/inputname.png)
 
 
 ## During Game
 You have the option to fold, check and raise
 
-![](readmeimg/ingame1)
+![](readmeimg/ingame1.png)
 
 ## After the Game
 At the end of the game, the player who has the greater hand or the one who doesnt fold wins, and their names are put on the leaderboard
 
-![](readmeimg/gamedone)
+![](readmeimg/gamedone.png)
 
 ## Leaderboard
 
-![](readmeimg/leaderboardchange)
+![](readmeimg/leaderboardchange.png)
 
