@@ -31,6 +31,8 @@ You have the option to fold, check and raise
 
 ![](readmeimg/ingame1.png)
 
+![](readmeimg/ingame2.png)
+
 ## After the Game
 At the end of the game, the player who has the greater hand or the one who doesnt fold wins, and their names are put on the leaderboard
 
